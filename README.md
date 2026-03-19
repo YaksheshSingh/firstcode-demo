@@ -1,3 +1,4 @@
 # firstcode-demo
-this is my first Git Reppository
-author - yakzshesh
+this is my first Git Reppository.
+<br>
+Author - yakzshesh
